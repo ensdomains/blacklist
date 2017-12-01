@@ -1,0 +1,33 @@
+{
+  "name": "blacklist",
+  "version": "0.0.1",
+  "description": "ENS domain blacklisting tool",
+  "author": "ensdomains",
+  "contributors": [
+    "Dean Eigenmann <dean@tokenate.io>"
+  ],
+  "license": "BSD-2-clause",
+  "scripts": {
+    "report": "truffle test",
+    "lint": "solium --dir ./contracts"
+  },
+  "files": [
+    "contracts/",
+    "truffle.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ensdomains/blacklist.git"
+  },
+  "devDependencies": {
+    "solium": "^1.0.4",
+    "truffle": "^4.0.0",
+    "eth-gas-reporter": "^0.0.12"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts"
+  ]
+}
