@@ -1,5 +1,7 @@
 # Blacklist
 
+[![Build Status](https://travis-ci.org/ensdomains/blacklist.svg?branch=master)](https://travis-ci.org/ensdomains/blacklist) [![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](LICENSE)
+
 Blacklist contains tools to easily blacklist ENS domains.
 
 ## Getting Started
@@ -43,4 +45,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
+This project is licensed under the BSD 2-clause "Simplified" License - see the [LICENSE](LICENSE) file for details
