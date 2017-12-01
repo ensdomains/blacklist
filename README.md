@@ -35,7 +35,7 @@ solium --dir ./contracts
 
 * **Dean Eigenmann** - [decanus](https://github.com/decanus)
 
-See also the list of [contributors](https://github.com/ensdomains/backlist/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ensdomains/backlist/graphs/contributors) who participated in this project.
 
 ## Versioning
 
