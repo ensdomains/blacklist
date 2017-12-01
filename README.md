@@ -22,12 +22,6 @@ Blacklist uses truffle for its ethereum development environment. All tests can b
 truffle test
 ```
 
-Using the report argument will enable the ethereum gas reporter, this prints all gas used by functions:
-
-```
-truffle test
-```
-
 To run linting, use solium:
 
 ```
