@@ -7,6 +7,6 @@ interface BlacklistInterface {
     
     function blacklist(bytes32 node) public;
     function unblacklist(bytes32 node) public;
-    function isAllowed(bytes32 node) public view returns (bool);
+    function isPermitted(bytes32 node) public view returns (bool);
 
 }
