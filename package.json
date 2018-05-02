@@ -4,7 +4,7 @@
   "description": "ENS domain blacklisting tool",
   "author": "ensdomains",
   "contributors": [
-    "Dean Eigenmann <dean@tokenate.io>"
+    "Dean Eigenmann <dean@ens.domains>"
   ],
   "license": "BSD-2-clause",
   "scripts": {
