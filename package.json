@@ -1,5 +1,5 @@
 {
-  "name": "blacklist",
+  "name": "@ensdomains/blacklist",
   "version": "1.0.0",
   "description": "ENS domain blacklisting tool",
   "author": "ensdomains",
