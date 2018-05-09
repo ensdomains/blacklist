@@ -1,6 +1,6 @@
 # Blacklist
 
-[![Build Status](https://travis-ci.org/ensdomains/blacklist.svg?branch=master)](https://travis-ci.org/ensdomains/blacklist) [![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](LICENSE)
+[![Build Status](https://travis-ci.org/ensdomains/blacklist.svg?branch=master)](https://travis-ci.org/ensdomains/blacklist) [![npm version](https://badge.fury.io/js/%40ensdomains%2Fblacklist.svg)](https://badge.fury.io/js/%40ensdomains%2Fblacklist) [![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](LICENSE)
 
 Blacklist contains tools to easily blacklist ENS domains.
 
